@@ -14,24 +14,36 @@
 
 Hello 👋 !
 
-freeCodeCamp.org is possible thanks to thousands of kind volunteers like you. Thanks for your interest in contributing and we are exited to welcome you onboard.
+freeCodeCamp.org is possible thanks to thousands of kind volunteers like you. We are grateful for your interest in contributing and we are exited to welcome you onboard.
+
+There are a lot of ways you can help and contribute to the community. We are pretty sure, we have something that will interest you. For instance, you can copy edit, and curate content. Write code, report and fix bugs. Triage issues and help moderate and review changes to the codebase. You can help campers, provide feedback and coding assistance and more.
+
+Any and all contributions are welcome alike.
 
 ## Here are some fun ways you can help
 
+> **Important:**
+>
+> We have a ["Code of Conduct"](/docs/CODE_OF_CONDUCT) that you should follow at all times.In short - We want contributing to freeCodeCamp.org, foster a welcoming environment that is safe and civil for everyone.
+>
+> As contributors we should be polite and succinct in our conversations with our fellow volunteers. Let's remember to respect everyone's time and efforts.
+
 You can choose to contribute to an area of you interest:
 
-- [1. Contribute to this codebase, working on guide articles, curriculum challenges and fix bugs](#1-contribute-to-this-codebase)
-- [2. Help campers on our public forum](#2-help-campers-on-our-public-forum)
-- [3. Help us add subtitles on our YouTube channel.](#3-help-us-add-subtitles-on-our-youtube-channel)
+1. [Contribute to this open source codebase. Work on guide articles, curriculum challenges and fix bugs.](#1-contribute-to-this-open-source-codebase)
+2. [Help campers on our public forum.](#2-help-campers-on-our-public-forum)
+3. [Help us add subtitles on our YouTube channel.](#3-help-us-add-subtitles-on-our-youtube-channel)
 
 ### 1. Contribute to this open source codebase
 
 We have a huge open source codebase of the thousands of [Curriculum challenges](https://www.freecodecamp.org/learn) and [Guide articles](https://www.freecodecamp.org/guide). These challenges and articles make up the learning content available on the freeCodeCamp.org's learning platform.
 
-- [📖 Research, Write and Update our guide articles](#%F0%9F%93%96-research-write-and-update-our-guide-articles)
-- [💻 Create, Update and Fix Bugs in our curriculum challenges](#%F0%9F%92%BB-create-update-and-fix-bugs-in-our-curriculum-challenges)
-- [📚 Translate guide articles and curriculum challenges](#%F0%9F%93%9A-translate-guide-articles-and-curriculum-challenges)
-- [🛠 Help us fix bugs in freeCodeCamp.org's learning platform](#%F0%9F%9B%A0-help-us-fix-bugs-in-freecodecamporgs-learning-platform)
+You can help us:
+
+- [📖 Research, Write and Update our guide articles.](#%F0%9F%93%96-research-write-and-update-our-guide-articles)
+- [💻 Create, Update and Fix Bugs in our curriculum challenges.](#%F0%9F%92%BB-create-update-and-fix-bugs-in-our-curriculum-challenges)
+- [📚 Translate guide articles and curriculum challenges.](#%F0%9F%93%9A-translate-guide-articles-and-curriculum-challenges)
+- [🛠 Help us fix bugs in freeCodeCamp.org's learning platform.](#%F0%9F%9B%A0-help-us-fix-bugs-in-freecodecamporgs-learning-platform)
 
 #### 📖 Research, Write and Update our guide articles
 
@@ -104,7 +116,7 @@ Contributing to this requires some understanding of APIs, ES6 Syntax and a lot o
 
 If you think you've found a bug, first read the ["Help I've Found a Bug"](https://forum.freecodecamp.org/t/how-to-report-a-bug/19543) article and follow its instructions.
 
-If you're confident it's a new bug, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug. We have a pre populated issue template to help you through this.
+If you're confident it's a new bug, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug. We have a pre-defined issue template to help you through this.
 
 Please note, that any issues that seek coding help on a challenge, will be closed. The issue tracker is strictly for the codebase related issues and discussions. You should [seek assistance on the forum](https://www.freecodecamp.org/forum) before reporting whenever in doubt.
 
@@ -119,7 +131,7 @@ Feel free to ask for help in:
 - [The "Contributors" category our public forum](https://www.freecodecamp.org/forum/c/contributors).
 - [Our public contributors chat room on Gitter](https://gitter.im/FreeCodeCamp/Contributors).
 
-We are excited to help you contribute to any of the topics that you would like to work on. Make sure you search for your query before posting a new one. Be polite and patient. our community volunteers and moderators are always around to guide you through your queries.
+We are excited to help you contribute to any of the topics that you would like to work on. Make sure you search for your query before posting a new one. Be polite and patient. Our community volunteers and moderators are always around to guide you through your queries.
 
 **I am new to GitHub and Open Source in general:**
 
